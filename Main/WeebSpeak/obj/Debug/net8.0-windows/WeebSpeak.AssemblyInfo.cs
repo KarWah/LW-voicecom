@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WeebSpeak")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20fdc6e44274da38133fd673435fc377a0bcc46f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97b1f9a5a3e010f4b92646e42b1efe9473bbada9")]
 [assembly: System.Reflection.AssemblyProductAttribute("WeebSpeak")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WeebSpeak")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

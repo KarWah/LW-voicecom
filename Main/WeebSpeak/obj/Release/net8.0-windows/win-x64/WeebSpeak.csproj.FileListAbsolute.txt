@@ -482,3 +482,4 @@ C:\Users\karlw\Documents\C#\LW voicecom\Main\WeebSpeak\obj\Release\net8.0-window
 C:\Users\karlw\Documents\C#\LW voicecom\Main\WeebSpeak\obj\Release\net8.0-windows\win-x64\WeebSpeak.pdb
 C:\Users\karlw\Documents\C#\LW voicecom\Main\WeebSpeak\obj\Release\net8.0-windows\win-x64\WeebSpeak.genruntimeconfig.cache
 C:\Users\karlw\Documents\C#\LW voicecom\Main\WeebSpeak\obj\Release\net8.0-windows\win-x64\ref\WeebSpeak.dll
+C:\Users\karlw\Documents\C#\LW voicecom\Main\WeebSpeak\obj\Release\net8.0-windows\win-x64\WeebSpeak.sourcelink.json

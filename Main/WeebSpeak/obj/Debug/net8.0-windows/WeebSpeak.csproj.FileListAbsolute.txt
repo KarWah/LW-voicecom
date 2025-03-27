@@ -28,6 +28,7 @@ C:\Users\karlw\Documents\C#\LW voicecom\Main\WeebSpeak\obj\Debug\net8.0-windows\
 C:\Users\karlw\Documents\C#\LW voicecom\Main\WeebSpeak\obj\Debug\net8.0-windows\WeebSpeak.AssemblyInfoInputs.cache
 C:\Users\karlw\Documents\C#\LW voicecom\Main\WeebSpeak\obj\Debug\net8.0-windows\WeebSpeak.AssemblyInfo.cs
 C:\Users\karlw\Documents\C#\LW voicecom\Main\WeebSpeak\obj\Debug\net8.0-windows\WeebSpeak.csproj.CoreCompileInputs.cache
+C:\Users\karlw\Documents\C#\LW voicecom\Main\WeebSpeak\obj\Debug\net8.0-windows\WeebSpeak.sourcelink.json
 C:\Users\karlw\Documents\C#\LW voicecom\Main\WeebSpeak\obj\Debug\net8.0-windows\WeebSpeak.csproj.Up2Date
 C:\Users\karlw\Documents\C#\LW voicecom\Main\WeebSpeak\obj\Debug\net8.0-windows\WeebSpeak.dll
 C:\Users\karlw\Documents\C#\LW voicecom\Main\WeebSpeak\obj\Debug\net8.0-windows\refint\WeebSpeak.dll
