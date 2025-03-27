@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Main", "Main", "{89633D5A-4713-1FCD-A3A9-594FA7A6EA5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeebSpeak", "Main\WeebSpeak\WeebSpeak.csproj", "{4DADFBAA-47FE-69AF-02EC-D7005F37BE38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DADFBAA-47FE-69AF-02EC-D7005F37BE38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DADFBAA-47FE-69AF-02EC-D7005F37BE38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DADFBAA-47FE-69AF-02EC-D7005F37BE38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DADFBAA-47FE-69AF-02EC-D7005F37BE38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4DADFBAA-47FE-69AF-02EC-D7005F37BE38} = {89633D5A-4713-1FCD-A3A9-594FA7A6EA5D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {668CDCC5-94E0-419E-8C4A-5574EA0275D3}
+	EndGlobalSection
+EndGlobal
